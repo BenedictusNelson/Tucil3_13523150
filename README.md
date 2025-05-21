@@ -54,14 +54,15 @@ Bonus: pilihan heuristic (blocking pieces, Manhattan distance, nol) dan penyimpa
    buat input file
 
 3. **Jalankan program**
+   ```bash
    java -cp bin Main test/input_file.txt
    
-4. **Ikuti prompt**
+5. **Ikuti prompt**
 * Pilih algoritma (1 – UCS, 2 – Greedy, 3 – A*)
 * Jika memilih Greedy/A*: pilih heuristic (1 – blocking, 2 – Manhattan, 3 – nol)
 * Masukkan nama file output (default solution.txt)
 
-Hasil akan:
+    Hasil akan:
 * Ditampilkan di terminal dengan highlight warna ANSI (P = merah, K = hijau, piece bergerak = biru).
 * Disimpan ke file teks (tanpa warna ANSI).
 
