@@ -1,0 +1,91 @@
+
+== Urutan Gerakan ==
+Papan Awal
+QQ....
+.GGHH.
+.AABB.
+PPLMN.
+..LMN.
+..DD..
+RR....
+
+Gerakan 1: D-kiri
+QQ....
+.GGHH.
+.AABB.
+PPLMN.
+..LMN.
+.DD...
+RR....
+
+Gerakan 2: M-bawah
+QQ....
+.GGHH.
+.AABB.
+PPL.N.
+..LMN.
+.DDM..
+RR....
+
+Gerakan 3: N-bawah
+QQ....
+.GGHH.
+.AABB.
+PPL...
+..LMN.
+.DDMN.
+RR....
+
+Gerakan 4: D-kiri
+QQ....
+.GGHH.
+.AABB.
+PPL...
+..LMN.
+DD.MN.
+RR....
+
+Gerakan 5: L-bawah
+QQ....
+.GGHH.
+.AABB.
+PP....
+..LMN.
+DDLMN.
+RR....
+
+Gerakan 6: P-kanan
+QQ....
+.GGHH.
+.AABB.
+.PP...
+..LMN.
+DDLMN.
+RR....
+
+Gerakan 7: P-kanan
+QQ....
+.GGHH.
+.AABB.
+..PP..
+..LMN.
+DDLMN.
+RR....
+
+Gerakan 8: P-kanan
+QQ....
+.GGHH.
+.AABB.
+...PP.
+..LMN.
+DDLMN.
+RR....
+
+Gerakan 9: P-kanan
+QQ....
+.GGHH.
+.AABB.
+....PP
+..LMN.
+DDLMN.
+RR....

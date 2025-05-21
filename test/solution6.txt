@@ -1,0 +1,4 @@
+PS C:\Users\Mykomp\Stima2.5\Tucil3_13523150> java -cp bin Main TestCase6.txt
+Exception in thread "main" java.lang.IllegalArgumentException: Jumlah baris tidak sesuai. Ditemukan 2, seharusnya 6
+        at BoardParser.parse(BoardParser.java:27)
+        at Main.main(Main.java:12)

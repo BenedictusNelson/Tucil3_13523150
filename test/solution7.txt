@@ -1,0 +1,4 @@
+PS C:\Users\Mykomp\Stima2.5\Tucil3_13523150> java -cp bin Main TestCase7.txt
+Exception in thread "main" java.lang.IllegalArgumentException: Panjang baris ke-2 = 7 ? 6 (kecuali K).
+        at BoardParser.parse(BoardParser.java:38)
+        at Main.main(Main.java:12)

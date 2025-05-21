@@ -1,0 +1,697 @@
+
+== Urutan Gerakan ==
+Papan Awal
+AAB..F
+..BCDF
+GPPCDF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 1: C-atas
+AABC.F
+..BCDF
+GPP.DF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 2: P-kanan
+AABC.F
+..BCDF
+G.PPDF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 3: D-atas
+AABCDF
+..BCDF
+G.PP.F
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 4: P-kanan
+AABCDF
+..BCDF
+G..PPF
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 5: M-kanan
+AABCDF
+..BCDF
+G..PPF
+GH.III
+GHJ...
+LLJ.MM
+
+Gerakan 6: H-atas
+AABCDF
+..BCDF
+GH.PPF
+GH.III
+G.J...
+LLJ.MM
+
+Gerakan 7: M-kiri
+AABCDF
+..BCDF
+GH.PPF
+GH.III
+G.J...
+LLJMM.
+
+Gerakan 8: J-atas
+AABCDF
+..BCDF
+GH.PPF
+GHJIII
+G.J...
+LL.MM.
+
+Gerakan 9: M-kanan
+AABCDF
+..BCDF
+GH.PPF
+GHJIII
+G.J...
+LL..MM
+
+Gerakan 10: L-kanan
+AABCDF
+..BCDF
+GH.PPF
+GHJIII
+G.J...
+.LL.MM
+
+Gerakan 11: M-kiri
+AABCDF
+..BCDF
+GH.PPF
+GHJIII
+G.J...
+.LLMM.
+
+Gerakan 12: J-atas
+AABCDF
+..BCDF
+GHJPPF
+GHJIII
+G.....
+.LLMM.
+
+Gerakan 13: H-bawah
+AABCDF
+..BCDF
+G.JPPF
+GHJIII
+GH....
+.LLMM.
+
+Gerakan 14: M-kanan
+AABCDF
+..BCDF
+G.JPPF
+GHJIII
+GH....
+.LL.MM
+
+Gerakan 15: L-kanan
+AABCDF
+..BCDF
+G.JPPF
+GHJIII
+GH....
+..LLMM
+
+Gerakan 16: J-bawah
+AABCDF
+..BCDF
+G..PPF
+GHJIII
+GHJ...
+..LLMM
+
+Gerakan 17: H-bawah
+AABCDF
+..BCDF
+G..PPF
+G.JIII
+GHJ...
+.HLLMM
+
+Gerakan 18: G-atas
+AABCDF
+G.BCDF
+G..PPF
+G.JIII
+.HJ...
+.HLLMM
+
+Gerakan 19: J-atas
+AABCDF
+G.BCDF
+G.JPPF
+G.JIII
+.H....
+.HLLMM
+
+Gerakan 20: G-bawah
+AABCDF
+..BCDF
+G.JPPF
+G.JIII
+GH....
+.HLLMM
+
+Gerakan 21: G-bawah
+AABCDF
+..BCDF
+..JPPF
+G.JIII
+GH....
+GHLLMM
+
+Gerakan 22: J-bawah
+AABCDF
+..BCDF
+...PPF
+G.JIII
+GHJ...
+GHLLMM
+
+Gerakan 23: B-bawah
+AA.CDF
+..BCDF
+..BPPF
+G.JIII
+GHJ...
+GHLLMM
+
+Gerakan 24: H-atas
+AA.CDF
+..BCDF
+..BPPF
+GHJIII
+GHJ...
+G.LLMM
+
+Gerakan 25: L-kiri
+AA.CDF
+..BCDF
+..BPPF
+GHJIII
+GHJ...
+GLL.MM
+
+Gerakan 26: M-kiri
+AA.CDF
+..BCDF
+..BPPF
+GHJIII
+GHJ...
+GLLMM.
+
+Gerakan 27: G-atas
+AA.CDF
+..BCDF
+G.BPPF
+GHJIII
+GHJ...
+.LLMM.
+
+Gerakan 28: M-kanan
+AA.CDF
+..BCDF
+G.BPPF
+GHJIII
+GHJ...
+.LL.MM
+
+Gerakan 29: L-kanan
+AA.CDF
+..BCDF
+G.BPPF
+GHJIII
+GHJ...
+..LLMM
+
+Gerakan 30: H-atas
+AA.CDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+..LLMM
+
+Gerakan 31: L-kiri
+AA.CDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+.LL.MM
+
+Gerakan 32: M-kiri
+AA.CDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+.LLMM.
+
+Gerakan 33: L-kiri
+AA.CDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+LL.MM.
+
+Gerakan 34: M-kanan
+AA.CDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+LL..MM
+
+Gerakan 35: J-bawah
+AA.CDF
+..BCDF
+GHBPPF
+GH.III
+G.J...
+LLJ.MM
+
+Gerakan 36: M-kiri
+AA.CDF
+..BCDF
+GHBPPF
+GH.III
+G.J...
+LLJMM.
+
+Gerakan 37: I-kiri
+AA.CDF
+..BCDF
+GHBPPF
+GHIII.
+G.J...
+LLJMM.
+
+Gerakan 38: M-kanan
+AA.CDF
+..BCDF
+GHBPPF
+GHIII.
+G.J...
+LLJ.MM
+
+Gerakan 39: H-bawah
+AA.CDF
+..BCDF
+G.BPPF
+GHIII.
+GHJ...
+LLJ.MM
+
+Gerakan 40: M-kiri
+AA.CDF
+..BCDF
+G.BPPF
+GHIII.
+GHJ...
+LLJMM.
+
+Gerakan 41: G-atas
+AA.CDF
+G.BCDF
+G.BPPF
+GHIII.
+.HJ...
+LLJMM.
+
+Gerakan 42: M-kanan
+AA.CDF
+G.BCDF
+G.BPPF
+GHIII.
+.HJ...
+LLJ.MM
+
+Gerakan 43: I-kanan
+AA.CDF
+G.BCDF
+G.BPPF
+GH.III
+.HJ...
+LLJ.MM
+
+Gerakan 44: M-kiri
+AA.CDF
+G.BCDF
+G.BPPF
+GH.III
+.HJ...
+LLJMM.
+
+Gerakan 45: J-atas
+AA.CDF
+G.BCDF
+G.BPPF
+GHJIII
+.HJ...
+LL.MM.
+
+Gerakan 46: M-kanan
+AA.CDF
+G.BCDF
+G.BPPF
+GHJIII
+.HJ...
+LL..MM
+
+Gerakan 47: H-atas
+AA.CDF
+G.BCDF
+GHBPPF
+GHJIII
+..J...
+LL..MM
+
+Gerakan 48: M-kiri
+AA.CDF
+G.BCDF
+GHBPPF
+GHJIII
+..J...
+LL.MM.
+
+Gerakan 49: M-kiri
+AA.CDF
+G.BCDF
+GHBPPF
+GHJIII
+..J...
+LLMM..
+
+Gerakan 50: H-bawah
+AA.CDF
+G.BCDF
+G.BPPF
+GHJIII
+.HJ...
+LLMM..
+
+Gerakan 51: G-bawah
+AA.CDF
+..BCDF
+G.BPPF
+GHJIII
+GHJ...
+LLMM..
+
+Gerakan 52: H-atas
+AA.CDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+LLMM..
+
+Gerakan 53: H-atas
+AA.CDF
+.HBCDF
+GHBPPF
+G.JIII
+G.J...
+LLMM..
+
+Gerakan 54: A-kanan
+.AACDF
+.HBCDF
+GHBPPF
+G.JIII
+G.J...
+LLMM..
+
+Gerakan 55: H-bawah
+.AACDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+LLMM..
+
+Gerakan 56: M-kanan
+.AACDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+LL.MM.
+
+Gerakan 57: M-kanan
+.AACDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+LL..MM
+
+Gerakan 58: L-kanan
+.AACDF
+..BCDF
+GHBPPF
+GHJIII
+G.J...
+.LL.MM
+
+Gerakan 59: H-bawah
+.AACDF
+..BCDF
+G.BPPF
+GHJIII
+GHJ...
+.LL.MM
+
+Gerakan 60: L-kiri
+.AACDF
+..BCDF
+G.BPPF
+GHJIII
+GHJ...
+LL..MM
+
+Gerakan 61: G-atas
+.AACDF
+G.BCDF
+G.BPPF
+GHJIII
+.HJ...
+LL..MM
+
+Gerakan 62: M-kiri
+.AACDF
+G.BCDF
+G.BPPF
+GHJIII
+.HJ...
+LL.MM.
+
+Gerakan 63: M-kiri
+.AACDF
+G.BCDF
+G.BPPF
+GHJIII
+.HJ...
+LLMM..
+
+Gerakan 64: H-atas
+.AACDF
+G.BCDF
+GHBPPF
+GHJIII
+..J...
+LLMM..
+
+Gerakan 65: H-atas
+.AACDF
+GHBCDF
+GHBPPF
+G.JIII
+..J...
+LLMM..
+
+Gerakan 66: M-kanan
+.AACDF
+GHBCDF
+GHBPPF
+G.JIII
+..J...
+LL.MM.
+
+Gerakan 67: M-kanan
+.AACDF
+GHBCDF
+GHBPPF
+G.JIII
+..J...
+LL..MM
+
+Gerakan 68: J-bawah
+.AACDF
+GHBCDF
+GHBPPF
+G..III
+..J...
+LLJ.MM
+
+Gerakan 69: M-kiri
+.AACDF
+GHBCDF
+GHBPPF
+G..III
+..J...
+LLJMM.
+
+Gerakan 70: I-kiri
+.AACDF
+GHBCDF
+GHBPPF
+G.III.
+..J...
+LLJMM.
+
+Gerakan 71: M-kanan
+.AACDF
+GHBCDF
+GHBPPF
+G.III.
+..J...
+LLJ.MM
+
+Gerakan 72: I-kiri
+.AACDF
+GHBCDF
+GHBPPF
+GIII..
+..J...
+LLJ.MM
+
+Gerakan 73: M-kiri
+.AACDF
+GHBCDF
+GHBPPF
+GIII..
+..J...
+LLJMM.
+
+Gerakan 74: G-bawah
+.AACDF
+.HBCDF
+GHBPPF
+GIII..
+G.J...
+LLJMM.
+
+Gerakan 75: M-kanan
+.AACDF
+.HBCDF
+GHBPPF
+GIII..
+G.J...
+LLJ.MM
+
+Gerakan 76: F-bawah
+.AACD.
+.HBCDF
+GHBPPF
+GIII.F
+G.J...
+LLJ.MM
+
+Gerakan 77: F-bawah
+.AACD.
+.HBCD.
+GHBPPF
+GIII.F
+G.J..F
+LLJ.MM
+
+Gerakan 78: M-kiri
+.AACD.
+.HBCD.
+GHBPPF
+GIII.F
+G.J..F
+LLJMM.
+
+Gerakan 79: I-kanan
+.AACD.
+.HBCD.
+GHBPPF
+G.IIIF
+G.J..F
+LLJMM.
+
+Gerakan 80: M-kanan
+.AACD.
+.HBCD.
+GHBPPF
+G.IIIF
+G.J..F
+LLJ.MM
+
+Gerakan 81: H-bawah
+.AACD.
+..BCD.
+GHBPPF
+GHIIIF
+G.J..F
+LLJ.MM
+
+Gerakan 82: H-bawah
+.AACD.
+..BCD.
+G.BPPF
+GHIIIF
+GHJ..F
+LLJ.MM
+
+Gerakan 83: M-kiri
+.AACD.
+..BCD.
+G.BPPF
+GHIIIF
+GHJ..F
+LLJMM.
+
+Gerakan 84: H-atas
+.AACD.
+..BCD.
+GHBPPF
+GHIIIF
+G.J..F
+LLJMM.
+
+Gerakan 85: F-bawah
+.AACD.
+..BCD.
+GHBPP.
+GHIIIF
+G.J..F
+LLJMMF
+
+Gerakan 86: P-kanan
+.AACD.
+..BCD.
+GHB.PP
+GHIIIF
+G.J..F
+LLJMMF
